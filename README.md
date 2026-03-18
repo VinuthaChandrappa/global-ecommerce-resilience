@@ -219,8 +219,3 @@ Possible improvements:
 
 ---
 
-# 👨‍💻 Author
-
-Name: Vinutha  
-Project: Global E-Commerce Resilient Infrastructure  
-Tools: AWS + Terraform
